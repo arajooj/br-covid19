@@ -1,59 +1,13 @@
-.casos-suspeitos {
-    height: 60px;
-    width: 100%;
-    font-size: 19px;
-    font-weight: bold;
-    color: white;
-  
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.Resultados {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 0 20px;
 }
 
-.testado-n-infectado {
-height: 60px;
-width: 100%;
-font-size: 19px;
-font-weight: bold;
-color: white;
-
-display: flex;
-justify-content: center;
-align-items: center;
-}
-
-.infectados {
-    height: 60px;
-    width: 100%;
-    font-size: 19px;
-    font-weight: bold;
-    color: white;
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.curados {
-    height: 60px;
-    width: 100%;
-    font-size: 19px;
-    font-weight: bold;
-    color: white;
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.mortes {
-    height: 60px;
-    width: 100%;
-    font-size: 19px;
-    font-weight: bold;
-    color: white;
-    
-    display: flex;
-    justify-content: center;
-    align-items: center;
+.Resultados div{
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
 }
