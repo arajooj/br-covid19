@@ -1,0 +1,59 @@
+.casos-suspeitos {
+    height: 60px;
+    width: 100%;
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.testado-n-infectado {
+height: 60px;
+width: 100%;
+font-size: 19px;
+font-weight: bold;
+color: white;
+
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.infectados {
+    height: 60px;
+    width: 100%;
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.curados {
+    height: 60px;
+    width: 100%;
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mortes {
+    height: 60px;
+    width: 100%;
+    font-size: 19px;
+    font-weight: bold;
+    color: white;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
